@@ -19,7 +19,14 @@ Public APIs from **JSONPlaceholder** are used to demonstrate API testing concept
 ## 🧪 APIs Automated
 - GET Users API
 - CREATE Post API (POST)
+- UPDATE Post API (PUT)
+- DELETE Post API (DELETE)
+
 
 ---
+## Future Enhancements
+- Add schema validation
+- Add test reports
+- Integrate CI/CD pipelines
 
 ## 🧱 Project Structure
